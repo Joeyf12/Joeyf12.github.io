@@ -21,3 +21,14 @@ I was able to confirm that the program was able to pull only emails that contain
 After implementing these changes, I then added a print statement that informs that an email will be displayed once an email with matching subject line is located. This message is only seen when the program is running in the IDE. I then added a timer that waits until the user exits the pop up window to continue reading through the email. 
 <img src="Picture10.png">
 <img src="image.png">
+
+After this I made further enhancements to the email software. I began by making a new ‘.py’ file labeled ```emailCheck``` that would hold functions for creating files that store entered emails and passwords from users. Once created a defined a function labeled ```checkFile``` that would check to see if a file labeled ```‘Login_Creds.txt’``` has been created already. From here a for loop is created to have the program enter the file and read the information line of text entered for strings that include ‘@’ and ‘.com’ to determine if a email address is entered.
+<img src="EmailNotificationPicture1.png">
+After this, an if function was created to confirm if the “Login_Creds.txt” file exists. If the file exists, the ```checkFile``` function is ran. If the file does not exist, a GUI appears prompting the user to enter their email and password utilizing the ```tkinter``` library. 
+<img src="EmailNotificationPicture2.png">
+From here a function defined as ```searchMail()``` is created that enters the users email and password in the “Login_Creds.txt” file separated by a blank space and store each entry as ```‘emailAdd’``` and ```‘passWord’```. Once entered the function ```checkMail``` is then ran.
+<img src="EmailNotificationPicture3.png">
+<img src="EmailNotificationPicture4.png">
+<img src="EmailNotificationPicture5.png">
+
+As of right now the program is steadily coming along. I can say with a few more tweaks the program will be able to store and reach the email address and password from the created file so the user is not prompted for their email each time. Next steps are to add this function with more reliability and to set the program to run automatically every 2 hours after startup.
