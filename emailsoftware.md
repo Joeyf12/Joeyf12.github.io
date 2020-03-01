@@ -1,6 +1,6 @@
 # Email Notification Software Artifact
 
-[click here](https://joeyf12.github.io/) to go back to home page.
+[click here](https://joeyf12.github.io/) to go back to home page. Use [This Link](EmailNotificationUpdated.zip) to download the program.
 
 For the Algorithms and Data Structure project I chose a program that I am currently working on outside of school which focuses on sending email alerts. I began working on this program for my job because employees would miss emails with Priority tickets until the end of their shifts. Priority tickets are tickets that need to be worked on right away and are sent from management via email. The problem that was being ran into was that employees would not be able to check their email regularly due to work volume and it would be too late by the time they checked their email. This program is made to help alleviate the need to employees to check their emails frequently for priority ticket. This program will read through a user’s email inbox and look for subject lines that match the search criteria e.g. “Priority”. Once the program finds a email with the subject line that matches the criteria it will pop up an alert that informs the user of the priority ticket received. 
 
