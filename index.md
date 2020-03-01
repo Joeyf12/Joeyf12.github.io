@@ -14,8 +14,33 @@ Follow this [link](https://joeyf12.github.io/codereview) to be taken to my code 
 
 Listed below you can find a link to each artifact as well as a brief description:
 
-### 1. Opengl Wolf Head
+### 1. [Opengl Wolf Head](https://joeyf12.github.io/wolfhead)
 
-### 2. Email Notification Software
+This artifact was created during an OpenGL course where I was tasked with creating a 3D model of a selection of my choice using c++ code. My goals for this artifact are:
 
-### 3. CRUD program utilizing Mongo DB
+Current Progress:
+- [x] Add Texture
+- [x] Improve Navigation
+- [ ] Add lighting
+
+### 2. [Email Notification Software](https://joeyf12.github.io/emailsoftware)
+
+This artifact was created to improve workflow at my current job. This artifact was to remove the need for employees to check their email inboxes constantly for specific emails received from supervisors that needed to be worked on quickly. The artifact was to access employee emails and read through the inbox and search for subject lines containing specific characters. Once the emails are seen an alert will be sent to the users informing them of the emails. My goals for this artifact are: 
+
+Current Progress:
+- [x] Improve search criteria for the program
+- [x] Add GUI that pops up and alerts the user of emails received or no emails received
+- [x] Add GUI asking user to enter their email address and password
+- [ ] Write email address and password entered to a file to reference when program runs
+- [ ] Have program run automatically upon computer startup and run every 2 hours after startup
+- [ ] Store init file in file to confirm if program ran for the first time for a new day
+
+### 3. [CRUD program utilizing Mongo DB](https://joeyf12.github.io/CRUDmongo)
+
+This artifact was created during my Client/Server Development course. For this program I was tasked with created a program using the Python language that would be able to access a Mongo Database and perform CRUD  (Create, Read, Update, Delete) functions. My goals for this artifact are:
+
+Current Progress:
+- [x] Add a functioning Create function
+- [x] Add a functioning Delete function
+- [x] Add a functioning Read function
+- [ ] Add a functioning Update function
