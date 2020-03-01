@@ -3,6 +3,7 @@
 [click here](https://joeyf12.github.io/) to go back to home page. Use [This Link](MongoCapProgarm_Update.zip) to download the program.
 
 For the Databases artifact, I chose to use the RESTful api program that was created in my CS-340 Client Server Development class. This program was created to allow a user to be able to access a database created in Mongo and be able to carry out basic CRUD commands through python code. I chose this artifact because I believe it shows my knowledge working in the Mongo environment as well as Python code. This artifact shows my ability to combine my knowledge is Mongo and Python to bring both environments together to work with each other. This will further demonstrate my ability to create a functioning database and code that will be able to be built upon and expanded. Using Python code I am able to show how I can gain access to the Mongo Database and execute basic CRUD commands to allow a user to edit their database with ease. When the Artifact was first selected it was in a state where the code was laid out, but was not fully functional.
+
 <img src="MongoPicture1.png">
 <img src="MongoPicture2.png">
 
