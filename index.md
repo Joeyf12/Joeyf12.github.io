@@ -8,7 +8,7 @@ Included in this ePortfolio are 3 artifacts that I feel demonstrate the full ran
 
 ## Code Review
 
-Follow this like to be taken to my code review where I go through each artifact and list the planned enhancements that will be made. 
+Follow this [link](https://joeyf12.github.io/codereview) to be taken to my code review where I go through each artifact and list the planned enhancements that will be made. 
 
 ## Artifacts
 
