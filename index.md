@@ -16,7 +16,7 @@ Listed below you can find a link to each artifact as well as a brief description
 
 ### 1. [Opengl Wolf Head](https://joeyf12.github.io/wolfhead)
 
-This artifact was created during an OpenGL course where I was tasked with creating a 3D model of a selection of my choice using c++ code. My goals for this artifact are:
+This artifact was created during my Computer Graphic and Visualization class where I was tasked with creating a 3D model of a selection of my choice using c++ code. My goals for this artifact are:
 
 Current Progress:
 - [x] Add Texture
