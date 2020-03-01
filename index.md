@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Professional Self-Assessment
 
-You can use the [editor on GitHub](https://github.com/Joeyf12/Joeyf12.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The field of Computer Science is constantly evolving, and entering the Computer Science field can be a daunting task without prior knowledge and skills.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Throughout my time spent in the Computer Science program at Southern New Hampshire University I was able to gain the skills that I needed in order to enter, and excel in the field of Computer Science. From my time in the Computer Science program I built upon my ability to think and write code. I was able to gain access to materials that laid the foundation when it came to syntax layout, program design, and enhancing my skills as a developer. Developing my ePortfolio has helped showcase my strengths by allowing my to enhance and display projects that were started throughout the course and my personal time. Furthermore, this program has helped shaped my professional goals by helping to guide me in determining which field in Computer Science I wanted to enter. From this program I was able to decide that I wanted to enter the field of Artificial Intelligence and persue furthering my knowledge in machine learning. I was able to take the skills I learned from the Computer Science program and apply them in my everyday life at work. From the skills learned in the program I was able to begin creating a program for my job that will be used by my colleagues to check their emails automatically. Along with this I was able to build upon my ability to collaborate with other developers at my job in a team environment to create programs using a agile workflow. The skills gained from this program has helpded me gain confidence in tackling the world of Computer Science and be able to stand out from the crowd in the eyes of employers. 
 
-### Markdown
+Included in this ePortfolio are 3 artifacts that I feel demonstrate the full range of my computer science talents and abilities. These artifacts each demonstrate a different area of the computer science field that shows my ability to enhance, create, and problem solve in the fields of Software Desing and Engineering, Algorithms and Data Sructure, and Databases. Each artifact displays my comfort in creating and interacting with different obstacles that could be encountered in the field of computer science. I believe that the artifacts that are listed can not only display my skills as a developer, but also help to validate the knowledge gained from the Computer Science program.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Code Review
 
-```markdown
-Syntax highlighted code block
+Follow this like to be taken to my code review where I go through each artifact and list the planned enhancements that will be made. 
 
-# Header 1
-## Header 2
-### Header 3
+## Artifacts
 
-- Bulleted
-- List
+Listed below you can find a link to each artifact as well as a brief description:
 
-1. Numbered
-2. List
+# 1. Opengl Wolf Head
 
-**Bold** and _Italic_ and `Code` text
+# 2. Email Notification Software
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joeyf12/Joeyf12.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# 3. CRUD program utilizing Mongo DB
