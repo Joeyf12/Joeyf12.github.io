@@ -1,6 +1,6 @@
 # Wolf Head OpenGL Artifact
 
-[click here](https://joeyf12.github.io/) to go back to home page. Use [This Link]() to download the project files.
+[click here](https://joeyf12.github.io/) to go back to home page. Use [This Link](WolfHead.zip) to download the project files.
 
 For the Software Design and Engineering artifact I decided to use the OpenGL wolf head project that I had to complete for my CS-330 Computer Graphic and Visualization class. For this project I was tasked with creating and texturing a basic model of the wolf’s head shape. Along with this I was tasked with adding navigation around the object and lighting to the project. I chose this project because it shows my ability to manipulate 3D objects utilizing C++ code. I also believe that this project shows my ability to create a visual concept using grid-based layouts. Along with this, this project shows my ability to design a complex program that has multiple moving parts in order to create a function program. The algorithms behind the camera movement and layout of the 3D shapes also show my ability to use math skills gained throughout the Computer Science program to complete a functioning program that can be controlled in a 3D environment. When this artifact was first selected, I was able to map out the basic outline of the wolf head and add a basic navigation syntax that allowed a user to rotate around the object by pressing the ‘Z’ key and moving the mouse.
 <img src="SoftwarePicture1.png">
