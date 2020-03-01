@@ -31,7 +31,7 @@ Current Progress:
 - [x] Improve search criteria for the program
 - [x] Add GUI that pops up and alerts the user of emails received or no emails received
 - [x] Add GUI asking user to enter their email address and password
-- [ ] Write email address and password entered to a file to reference when program runs
+- [x] Write email address and password entered to a file to reference when program runs
 - [ ] Have program run automatically upon computer startup and run every 2 hours after startup
 - [ ] Store init file in file to confirm if program ran for the first time for a new day
 
