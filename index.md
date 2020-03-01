@@ -14,8 +14,8 @@ Follow this like to be taken to my code review where I go through each artifact 
 
 Listed below you can find a link to each artifact as well as a brief description:
 
-# 1. Opengl Wolf Head
+### 1. Opengl Wolf Head
 
-# 2. Email Notification Software
+### 2. Email Notification Software
 
-# 3. CRUD program utilizing Mongo DB
+### 3. CRUD program utilizing Mongo DB
